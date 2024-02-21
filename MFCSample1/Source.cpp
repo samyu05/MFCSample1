@@ -17,5 +17,4 @@ int __stdcall AfxWinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR nCm
 
 	//starts message loop
 	pApp->Run();
-
 }
